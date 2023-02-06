@@ -41,7 +41,19 @@ Failure is shown - hurrah!!!
 
 
 # The Kata
-From: https://sammancoaching.org/kata_descriptions/leap_years.html
+Kata
+Write a function that returns true or false depending on whether its input integer is a leap year or not.
+
+A leap year is defined as one that is divisible by 4 but is not divisible by 100, unless it is also divisible by 400.
+
+For example, 
+* 2001 is a typical common year
+* 1996 is a typical leap year
+* 1900 is a common year 
+* 2000 is a leap year
+
+Acknowledgements
+This kata is described on cyber-dojo.org and https://sammancoaching.org/kata_descriptions/leap_years.html
 
 Write a function that returns true or false depending on whether its input integer is a leap year or not.
 
