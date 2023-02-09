@@ -1,4 +1,4 @@
-const { Year } = require("./year");
+const { Year } = require("./year-prototype");
 
 describe('Leap years', () => {
     test('2001 is a not a leap year', () =>{
